@@ -2,7 +2,7 @@ from os import closerange
 import folium
 import pandas
 
-#Read the csv and json that contains all the information that I need. 
+###Read the csv and json that contains all the information that I need. 
 data = pandas.read_csv("files\-nuclear-power-stations.csv")
 
 
